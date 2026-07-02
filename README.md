@@ -13,6 +13,14 @@ A browser-based Asteroids-style game built with HTML Canvas and JavaScript.
 - Game over screen with final score
 - Projectile and Asteroid cleanup
 
+## Screenshot
+
+### Gameplay
+![Asteroids gameplay showing score and lives](gameplay.png)
+
+### Gameover Screen
+![Asteroids gameover screen showing total score](gameover.png)
+
 ## Technologies Used
 
 - HTML5
